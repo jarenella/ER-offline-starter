@@ -1,0 +1,11 @@
+{
+  "name": "er-anticheat-disabler",
+  "version": "1.0.0",
+  "description": "disable anti cheat to use mods and start the game in offline mode because if you go online with anti cheat disabled thats bad for obvious reasons",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
